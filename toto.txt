@@ -1,1 +1,0 @@
-client_id=3e3b2227a63e36a3ed1c60704c70a8b2&redirect_uri=http%3A%2F%2Fpreprod-load-balancer-409077682.eu-west-1.elb.amazonaws.com%2Fsocial%2Fsoundcloud%2Fcallback&client_secret=34cd0648b1eb3134d17acf39e611fe33&code=02d08a60f41c18753058008d992df5ba&grant_type=authorization_code
